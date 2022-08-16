@@ -2,7 +2,7 @@
   <div class="bg-zinc-200">
     <MainHeader />
     <swiper
-      class="md:mt-40 mt-48"
+      class="lg:mt-40 mt-28"
       :centeredSlides="true"
       :autoplay="{
         delay: 3000,
