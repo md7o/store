@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Reebok black boot ",
+    "color": "black",
+    "explained": "Men's Supernova Shoe",
+    "price": 29999,
+    "img": "bootBlack.png",
+    "size": 44
+  },
+  {
+    "id": 2,
+    "title": "Reebok blue boot",
+    "color": "blue",
+    "explained": "Men's Supernova Shoe",
+    "price": 32999,
+    "img": "bootBlue.png",
+    "size": 44
+  },
+  {
+    "id": 3,
+    "title": "Reebok black boot",
+    "color": "black",
+    "explained": "Men's Supernova Shoe",
+    "price": 55999,
+    "img": "bootBlack.png",
+    "size": 44
+  },
+  {
+    "id": 4,
+    "title": "Reebok black boot",
+    "color": "black",
+    "explained": "Men's Supernova Shoe",
+    "price": 29999,
+    "img": "bootBlack.png",
+    "size": 44
+  },
+  {
+    "id": 5,
+    "title": "Reebok black boot",
+    "color": "black",
+    "explained": "Men's Supernova Shoe",
+    "price": 32999,
+    "img": "bootBlack.png",
+    "size": 44
+  },
+  {
+    "id": 6,
+    "title": "Reebok black boot",
+    "color": "black",
+    "explained": "Men's Supernova Shoe",
+    "price": 69999,
+    "img": "bootBlack.png",
+    "size": 44
+  }
+]
